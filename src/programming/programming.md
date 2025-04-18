@@ -1,6 +1,5 @@
 ---
 title: Programming
-has_toc: false
 ---
 ___
 # General
