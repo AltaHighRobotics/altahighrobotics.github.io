@@ -1,6 +1,6 @@
 
 ---
-title: "Linux"
+title: Linux
 ---
 ___
 ## [[Ubuntu]]
