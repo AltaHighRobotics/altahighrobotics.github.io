@@ -1,3 +1,7 @@
+---
+title: Programming
+has_toc: false
+---
 ___
 # General
 ## [[Bash Notes]]

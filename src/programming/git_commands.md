@@ -1,3 +1,8 @@
+---
+title: Git Commands
+parent: Programming
+---
+
 Sources: [cheat sheet](<https://education.github.com/git-cheat-sheet-education.pdf>), [create sub-branch](<https://stackoverflow.com/questions/33652953/how-to-create-a-sub-branch>), [create remote branch](<https://stackoverflow.com/questions/1519006/how-do-i-create-a-remote-git-branch>), [compare commits](<https://stackoverflow.com/questions/17563726/how-can-i-see-the-changes-in-a-git-commit>), [compare branches](<https://stackoverflow.com/questions/43552274/how-can-i-diff-two-branches-in-github>)
 ___
 ## Downloading

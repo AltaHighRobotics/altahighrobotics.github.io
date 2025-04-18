@@ -1,3 +1,8 @@
+---
+title: Bash Notes
+parent: Programming
+---
+
 ___
 **Assigning Variables
 
