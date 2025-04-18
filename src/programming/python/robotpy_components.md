@@ -13,7 +13,7 @@ Main repository
 #### Imports:
 - commands2[^1]
 - robotContainer.py[^2]
-#### Deports to:
+#### Exports to:
 - NONE
 
 ## robotContainer.py
@@ -27,7 +27,7 @@ Main repository
 - constants[^2]
 - subsystems[^2]
 - commands[^2]
-#### Deports:
+#### Exports:
 - NONE
 
 ## constants.py
@@ -39,7 +39,7 @@ Main repository
 ### Connections:
 #### Imports:
 - NONE
-#### Deports:
+#### Exports:
 - robotContainer.py[^2]
 - subsystems:[^2]
 	- aprilTagSubsystem.py
