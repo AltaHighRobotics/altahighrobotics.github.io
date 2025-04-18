@@ -2,7 +2,7 @@
 title: Home
 layout: home
 nav_order: 1
-description: "A webpage dedicated to notes and guides for Alta High Robotics"
+description: "A webpage dedicated to guides and notes made by Pizza2d1"
 permalink: /
 ---
 # Welcome!
@@ -19,19 +19,20 @@ I hope you enjoy learning about the different things that I have collected here 
 {: .warning }
 > This was made in a very scrappy manner and may have some issues with it. If you see any, please help me and [make a issue notice](https://github.com/Pizza2d1/pizza2d1.github.io/issues/new) so that I can fix it. Thank you!
 
-## Getting started 
+## Getting started
 
 {: .new-title }
 > Quick Note
 >
 > This webpage is still a work in progress and they will be for the next few days, BUT, don't let that dicourage you from checking out what is already posted :3
 
+If you would like to download my class notes, you can find a download link at the bottom of the [Class Notes](https://pizza2d1.github.io/src/class_notes) page
 <!-- You can go through an see what notes I've made by selecting the category on sidebar, and if you would like to download the notes yourself you can scroll down to the bottom and get both a html and markdown version of the page, which I find very useful as it allows you to put it right into your [Obsidian](https://obsidian.md) note-taking app -->
 
 ### License
 
 If you would like to make a copy of this webpage for your own use, I recommend using the official [just-the-docs template](https://just-the-docs.github.io/just-the-docs-template/) which includes a valid MIT license, but if you would like to use mine that is totally, and completely fine (and would make me so happy)
-#### [My license](https://github.com/altaroboticsweb/altaroboticsweb.github.io/blob/main/LICENSE.txt).
+#### [My license](https://github.com/pizza2d1/pizza2d1.github.io/tree/main/LICENSE.txt).
 
 ### Contributing
 
@@ -49,4 +50,11 @@ I would love to have some help adding new guides and notes, so if you yourself w
 [Github](https://github.com/pizza2d1)
 
 ----
-<!-- ### - **[Class Notes]({% link src/class_notes/index.md %})** -->
+
+
+## <u>Table of contents</u>
+
+### - **[About Me]({% link src/aboutme.md %})**
+### - **[Notes]({% link src/notes/index.md %})**
+####  - **[Command Notes]({% link src/notes/programming.md %})**
+### - **[Class Notes]({% link src/class_notes/index.md %})**

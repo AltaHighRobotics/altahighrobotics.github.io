@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: altarobotics's Webpage
+title: Pizza2d1's Webpage
 description: A Jekyll theme for documentation
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://altahighrobotics.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-repository: altahighrobotics/altahighrobotics.github.io # for github-metadata
+url: "https://pizza2d1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository: pizza2d1/pizza2d1.github.io # for github-metadata
 
 permalink: pretty
 
@@ -111,9 +111,9 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "HOMEPAGE":
-    - "https://altahighrobotics.github.io"
+    - "https://pizza2d1.github.io"
   "My Github":
-    - "https://github.com/altahighrobotics/"
+    - "https://github.com/pizza2d1/"
 
 
 # Makes Aux links open in a new tab. Default is false
