@@ -52,8 +52,3 @@ I would love to have some help adding new guides and notes, so if you yourself w
 ----
 
 <!-- THESE ARE HIGHLY SUSEPTABLE TO BREAKING THE WEBPAGE, THESE ARE MEANT TO BE PERMANENT LINKS, THEY WORK FASTER BUT THEY CAN BE REPLACED WITH NORMAL https:// LINKS -->
-### - **[Robotics Notes]({% link src/robotics/robotics_notes.md %})**
-### - **[Programming Notes]({% link src/programming/programming.md %})**
-#####  - **[Robotpy code components]({% link src/programming/python/robotpy_components.md %})**
-#####  - **[java robot code components]({% link src/programming/java/robot_code.md %})**
-### - **[Git Commands]({% link src/programming/git_commands.md %})**
