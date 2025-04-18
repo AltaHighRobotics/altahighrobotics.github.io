@@ -3,7 +3,7 @@ title: Robotpy installation for Linux
 parent: Robotics
 ---
 
-Windows Version: [How to setup Robotpy and Driver Station on Windows]({% link src/Robotics/installer_guides/robotpywindows.md %})
+Windows Version: [How to setup Robotpy and Driver Station on Windows]({% link src/robotics/installer_guides/robotpywindows.md %})
 
 ___
 ## You should only need to follow this guide if you have already tried the robotpy-installer repository in the github
