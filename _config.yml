@@ -16,8 +16,8 @@
 title: altarobotics's Webpage
 description: A Jekyll theme for documentation
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://altaroboticsweb.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-repository: altaroboticsweb/altaroboticsweb.github.io # for github-metadata
+url: "https://altahighrobotics.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository: altahighrobotics/altahighrobotics.github.io # for github-metadata
 
 permalink: pretty
 
@@ -111,9 +111,9 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "HOMEPAGE":
-    - "https://altaroboticsweb.github.io"
+    - "https://altahighrobotics.github.io"
   "My Github":
-    - "https://github.com/altaroboticsweb/"
+    - "https://github.com/altahighrobotics/"
 
 
 # Makes Aux links open in a new tab. Default is false

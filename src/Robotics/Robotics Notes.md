@@ -5,7 +5,8 @@ parent: Robotics
 ___
 
 ## RoboRIO images
-
+Download 2025 roborio image: [external link](https://pizza2d1.duckdns.org/files/WorkingRoboRIO.img.gz) [unblocked external link](http:136.60.227.41/files/WorkingRoboRIO.img.gz)
+##### Linx:
 ###### Create a compressed image file with a working image file
 
 ```bash
@@ -20,8 +21,10 @@ cat backup.img.gz | gunzip | dd of=/dev/sdb
 
 
 Example code for our purposes: 
+###### This will echo the contents of the RoboRio image file, decompress it with gunzip, and then overwrite existing data on the /dev/mmcblk0p1 storage device, status and bs parameters add verbosity and speed
 ```bash
-sudo dd if=/dev/sda status=progress bs=32M| gzip > arch_hyprland.img.gz
+sudo cat WorkingRoboRIO.img.gz status=progress bs=32M| gunzip | dd of=/dev/mmcblk0p1 status=progress bs=32M
+# Make sure you are outputting to the right drive and not your own, that will brick your laptop
 ```
 
 
