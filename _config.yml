@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Pizza2d1's Webpage
+title: Alta Robotic's Webpage
 description: A Jekyll theme for documentation
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pizza2d1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-repository: pizza2d1/pizza2d1.github.io # for github-metadata
+url: "https://altahighrobotics.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository: altahighrobotics/pizza2d1.github.io # for github-metadata
 
 permalink: pretty
 
@@ -111,9 +111,9 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "HOMEPAGE":
-    - "https://pizza2d1.github.io"
-  "My Github":
-    - "https://github.com/pizza2d1/"
+    - "https://altahighrobotics.github.io"
+  "Alta Robotics Github":
+    - "https://github.com/altahighrobotics/"
 
 
 # Makes Aux links open in a new tab. Default is false
@@ -129,6 +129,8 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
 nav_external_links:
+  - title: Robotics File Downloads
+    url: https://136.60.227.41/files/
   - title: King Terry the Terrible
     url: https://en.wikipedia.org/wiki/Terry_A._Davis
 
