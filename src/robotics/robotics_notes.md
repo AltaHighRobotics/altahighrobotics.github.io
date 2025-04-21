@@ -134,7 +134,7 @@ ___
 `motor.restoreFactoryDefaults();  // Reset all settings`
 
 * Controls direction and behavior when no signal is sent.  
-  ![][image1]
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeyGz8TKWQrG1VvTK3trjB5OCmWvJlNxB7rhaeFGBir5TQiEd3cC4koGdxJ2LpjiL1aOvnA7qwC6eX93JaUL6BfaVc5iXo9PVYDm3eWOncBHaP2j0-GyNl3dHa_PTWbFNcjhgOeZQ?key=zr4pVnWAT07TaGSSXN0IPnJ6)
 
 ---
 
@@ -172,7 +172,7 @@ ___
 
   #### Key Differences in Current Limit Methods
 
-![][image2]
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeZ_374RCQ9lERan9vz1Gm6QOXfVIkBRsc1t4FAL_5T5b283UfCwNlwRaPgz-WAonyho4_Ts_G5-lRkFWTzmy-LsLx2bLNHNTfdAf1zVSR4NNJsnL76ySUKoEIq4bszdfjTp17eHg?key=zr4pVnWAT07TaGSSXN0IPnJ6)
 
 #### **Danger of USB-only Configuration**
 
